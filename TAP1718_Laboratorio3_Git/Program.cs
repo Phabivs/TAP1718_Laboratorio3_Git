@@ -6,7 +6,7 @@ namespace TAP1718_Laboratorio3_Git
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("2\nHAA HO MODIFICATO TUTTO IL PROGETTO HAI PERSO");
+            Console.WriteLine("torno indietro");
         }
     }
 }
