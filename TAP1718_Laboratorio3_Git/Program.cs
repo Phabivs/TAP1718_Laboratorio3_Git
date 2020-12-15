@@ -6,7 +6,7 @@ namespace TAP1718_Laboratorio3_Git
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("torno indietro");
+            Console.WriteLine("NON SI CAPISCE UN CAZZO IGNORANZA TOTALE E BECERA");
         }
     }
 }
