@@ -1,0 +1,6 @@
+C:\Users\Fabio\Source\Repos\TAP1718_Laboratorio3_Git\TAP1718_Laboratorio3_Git\bin\Debug\TAP1718_Laboratorio3_Git.exe
+C:\Users\Fabio\Source\Repos\TAP1718_Laboratorio3_Git\TAP1718_Laboratorio3_Git\bin\Debug\TAP1718_Laboratorio3_Git.pdb
+C:\Users\Fabio\Source\Repos\TAP1718_Laboratorio3_Git\TAP1718_Laboratorio3_Git\obj\x86\Debug\TAP1718_Laboratorio3_Git.csprojAssemblyReference.cache
+C:\Users\Fabio\Source\Repos\TAP1718_Laboratorio3_Git\TAP1718_Laboratorio3_Git\obj\x86\Debug\TAP1718_Laboratorio3_Git.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Source\Repos\TAP1718_Laboratorio3_Git\TAP1718_Laboratorio3_Git\obj\x86\Debug\TAP1718_Laboratorio3_Git.exe
+C:\Users\Fabio\Source\Repos\TAP1718_Laboratorio3_Git\TAP1718_Laboratorio3_Git\obj\x86\Debug\TAP1718_Laboratorio3_Git.pdb
